@@ -2020,8 +2020,3 @@ INSERT INTO `comments` (`id`, `user_id`, `photo_id`, `body`, `created_at`, `upda
 (2020, 187, 223, 'fff??🔥🙌😄', '2018-09-13 04:23:35', '2018-09-13 04:23:35'),
 (2021, 158, 378, 'macht auch solche Fotos😄😍', '2018-09-03 16:51:19', '2018-09-03 16:51:19'),
 (2022, 7, 291, '💞👻❤️', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
-(2023, 91, 145, 'Adolf Hitler hätte sowas bestimmt auch gemalt.', '2018-09-21 15:27:31', '2018-09-21 15:27:31'),
-(2024, 148, 1258, 'Adolf Hitler hätte sowas bestimmt auch gemalt.', '2018-08-26 22:44:35', '2018-08-26 22:44:35'),
-(2025, 147, 1414, 'Adolf Hitler hätte sowas bestimmt auch gemalt.', '2018-09-14 06:59:27', '2018-09-14 06:59:27'),
-(2026, 115, 1511, 'Adolf Hitler hätte sowas bestimmt auch gemalt.', '2018-09-08 04:51:20', '2018-09-08 04:51:20'),
-(2027, 48, 105, 'Adolf Hitler hätte sowas bestimmt auch gemalt.', '0000-00-00 00:00:00', '0000-00-00 00:00:00');
